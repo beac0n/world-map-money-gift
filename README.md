@@ -92,3 +92,8 @@ their original sources:
   come from [google/fonts](https://github.com/google/fonts).
 - Design inspired by the classic "Die schönste Reise beginnt zu zweit" wooden
   money gift boards.
+
+## License
+
+The code is under the [MIT License](LICENSE). The fonts and map data that the
+script downloads keep their own licences (see [Credits](#credits)).
